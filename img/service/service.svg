@@ -1,0 +1,210 @@
+<svg width="680" height="480" viewBox="0 0 680 480" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>倉庫・配送クラウド管理システムのメインビジュアル</title>
+<desc>薄いグレーの背景に、多数の細い道が枝分かれしながら合流し、太いオレンジ色の道になって中央のクラウド管理アイコンから倉庫、配送先ピン、荷物、トラックへつながっているイラスト。</desc>
+
+<rect x="0" y="0" width="680" height="480" fill="#F7F8FA"/>
+
+<g stroke="#E7E9EC" stroke-width="0.5">
+<line x1="0" y1="120" x2="680" y2="120"/>
+<line x1="0" y1="360" x2="680" y2="360"/>
+<line x1="140" y1="0" x2="140" y2="480"/>
+<line x1="540" y1="0" x2="540" y2="480"/>
+</g>
+
+<g fill="none" stroke="#C9CDD3" stroke-width="2" stroke-linecap="round">
+<polyline points="340,90 340,55"/>
+<polyline points="340,55 312,42"/>
+<polyline points="340,55 368,42"/>
+<polyline points="340,390 340,420"/>
+<polyline points="340,420 312,438"/>
+<polyline points="340,420 368,438"/>
+<polyline points="60,250 35,250"/>
+<polyline points="35,250 20,235"/>
+<polyline points="35,250 20,265"/>
+<polyline points="620,250 645,250"/>
+<polyline points="645,250 660,235"/>
+<polyline points="645,250 660,265"/>
+</g>
+<g fill="#C9CDD3">
+<circle cx="312" cy="42" r="2.6"/>
+<circle cx="368" cy="42" r="2.6"/>
+<circle cx="312" cy="438" r="2.6"/>
+<circle cx="368" cy="438" r="2.6"/>
+<circle cx="20" cy="235" r="2.4"/>
+<circle cx="20" cy="265" r="2.4"/>
+<circle cx="660" cy="235" r="2.4"/>
+<circle cx="660" cy="265" r="2.4"/>
+</g>
+
+<g fill="none" stroke="#EDCBA4" stroke-width="1.3" stroke-linecap="round">
+<polyline points="135,178 160,190"/>
+<polyline points="135,202 160,190"/>
+<polyline points="135,233 160,245"/>
+<polyline points="135,257 160,245"/>
+<polyline points="545,178 520,190"/>
+<polyline points="545,202 520,190"/>
+<polyline points="545,233 520,245"/>
+<polyline points="545,257 520,245"/>
+<polyline points="125,228 150,240"/>
+<polyline points="125,252 150,240"/>
+<polyline points="125,278 150,290"/>
+<polyline points="125,302 150,290"/>
+<polyline points="545,228 520,240"/>
+<polyline points="545,252 520,240"/>
+<polyline points="545,278 520,290"/>
+<polyline points="545,302 520,290"/>
+</g>
+<g fill="#EDCBA4">
+<circle cx="135" cy="178" r="1.8"/><circle cx="135" cy="202" r="1.8"/>
+<circle cx="135" cy="233" r="1.8"/><circle cx="135" cy="257" r="1.8"/>
+<circle cx="545" cy="178" r="1.8"/><circle cx="545" cy="202" r="1.8"/>
+<circle cx="545" cy="233" r="1.8"/><circle cx="545" cy="257" r="1.8"/>
+<circle cx="125" cy="228" r="1.8"/><circle cx="125" cy="252" r="1.8"/>
+<circle cx="125" cy="278" r="1.8"/><circle cx="125" cy="302" r="1.8"/>
+<circle cx="545" cy="228" r="1.8"/><circle cx="545" cy="252" r="1.8"/>
+<circle cx="545" cy="278" r="1.8"/><circle cx="545" cy="302" r="1.8"/>
+</g>
+
+<g fill="none" stroke="#E7B888" stroke-width="2.2" stroke-linecap="round">
+<polyline points="160,190 200,215"/>
+<polyline points="160,245 200,215"/>
+<polyline points="520,190 480,215"/>
+<polyline points="520,245 480,215"/>
+<polyline points="150,240 190,265"/>
+<polyline points="150,290 190,265"/>
+<polyline points="520,240 480,265"/>
+<polyline points="520,290 480,265"/>
+</g>
+<g fill="#E7B888">
+<circle cx="160" cy="190" r="2.5"/><circle cx="160" cy="245" r="2.5"/>
+<circle cx="520" cy="190" r="2.5"/><circle cx="520" cy="245" r="2.5"/>
+<circle cx="150" cy="240" r="2.5"/><circle cx="150" cy="290" r="2.5"/>
+<circle cx="520" cy="240" r="2.5"/><circle cx="520" cy="290" r="2.5"/>
+</g>
+
+<g fill="none" stroke="#D9772C" stroke-width="5" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="285,215 200,215 200,110 150,110"/>
+<polyline points="395,215 480,215 480,86 556,86"/>
+<polyline points="285,265 190,265 190,374 148,374"/>
+<polyline points="395,265 480,265 480,357 500,357"/>
+</g>
+<g fill="none" stroke="#F7F8FA" stroke-width="1.2" stroke-dasharray="7 7" stroke-linecap="round">
+<polyline points="285,215 200,215 200,110 150,110"/>
+<polyline points="395,215 480,215 480,86 556,86"/>
+<polyline points="285,265 190,265 190,374 148,374"/>
+<polyline points="395,265 480,265 480,357 500,357"/>
+</g>
+
+<g fill="none" stroke="#E7B888" stroke-width="3" stroke-linecap="round">
+<polyline points="200,162 245,162"/>
+<polyline points="200,140 165,140"/>
+<polyline points="480,150 430,150"/>
+<polyline points="480,115 515,115"/>
+<polyline points="190,314 245,314"/>
+<polyline points="190,340 230,340"/>
+<polyline points="480,311 430,311"/>
+<polyline points="480,345 435,345"/>
+</g>
+<g fill="#E7B888" stroke="#F7F8FA" stroke-width="1">
+<circle cx="245" cy="162" r="4"/>
+<circle cx="165" cy="140" r="3.5"/>
+<circle cx="430" cy="150" r="4"/>
+<circle cx="515" cy="115" r="3.5"/>
+<circle cx="245" cy="314" r="4"/>
+<circle cx="230" cy="340" r="3.5"/>
+<circle cx="430" cy="311" r="4"/>
+<circle cx="435" cy="345" r="3.5"/>
+</g>
+
+<g fill="none" stroke="#EDCBA4" stroke-width="1.5" stroke-linecap="round">
+<polyline points="245,162 270,145"/>
+<polyline points="245,162 270,180"/>
+<polyline points="430,150 405,133"/>
+<polyline points="430,150 405,168"/>
+<polyline points="245,314 270,297"/>
+<polyline points="245,314 270,332"/>
+<polyline points="430,311 405,294"/>
+<polyline points="430,311 405,328"/>
+</g>
+<g fill="#EDCBA4">
+<circle cx="270" cy="145" r="2"/><circle cx="270" cy="180" r="2"/>
+<circle cx="405" cy="133" r="2"/><circle cx="405" cy="168" r="2"/>
+<circle cx="270" cy="297" r="2"/><circle cx="270" cy="332" r="2"/>
+<circle cx="405" cy="294" r="2"/><circle cx="405" cy="328" r="2"/>
+</g>
+
+<g fill="#D9772C">
+<circle cx="200" cy="215" r="3.6"/>
+<circle cx="200" cy="110" r="3.2"/>
+<circle cx="480" cy="215" r="3.6"/>
+<circle cx="480" cy="86" r="3.2"/>
+<circle cx="190" cy="265" r="3.6"/>
+<circle cx="190" cy="374" r="3.2"/>
+<circle cx="480" cy="265" r="3.6"/>
+<circle cx="480" cy="357" r="3.2"/>
+</g>
+
+<g>
+<rect x="285" y="185" width="110" height="110" rx="16" fill="#FFFFFF" stroke="#D9772C" stroke-width="1.5"/>
+<path d="M312 258 q-16 0 -16 -15 q0 -13 12 -14 q3 -13 18 -13 q14 0 18 12 q13 1 13 14 q0 16 -17 16 z"
+fill="#FCEEE1" stroke="#323254" stroke-width="2.2"/>
+<g>
+<circle cx="354" cy="252" r="10" fill="#FFFFFF" stroke="#D9772C" stroke-width="2"/>
+<circle cx="354" cy="252" r="3" fill="#D9772C"/>
+<g stroke="#D9772C" stroke-width="2" stroke-linecap="round">
+<line x1="354" y1="239" x2="354" y2="243"/>
+<line x1="354" y1="261" x2="354" y2="265"/>
+<line x1="341" y1="252" x2="345" y2="252"/>
+<line x1="363" y1="252" x2="367" y2="252"/>
+<line x1="345" y1="243" x2="348" y2="246"/>
+<line x1="360" y1="258" x2="363" y2="261"/>
+<line x1="363" y1="243" x2="360" y2="246"/>
+<line x1="348" y1="258" x2="345" y2="261"/>
+</g>
+</g>
+<circle cx="322" cy="213" r="3.5" fill="#D9772C"/>
+</g>
+
+<g>
+<polygon points="66,102 110,64 154,102" fill="#D9772C" stroke="#323254" stroke-width="2" stroke-linejoin="round"/>
+<rect x="70" y="102" width="80" height="54" rx="3" fill="#FFFFFF" stroke="#323254" stroke-width="2"/>
+<rect x="99" y="126" width="22" height="30" rx="2" fill="#EDEFF2" stroke="#323254" stroke-width="1.6"/>
+<line x1="99" y1="134" x2="121" y2="134" stroke="#D9772C" stroke-width="1.4"/>
+<line x1="99" y1="141" x2="121" y2="141" stroke="#D9772C" stroke-width="1.4"/>
+<line x1="99" y1="148" x2="121" y2="148" stroke="#D9772C" stroke-width="1.4"/>
+<rect x="78" y="110" width="13" height="11" rx="1.5" fill="#FBE2C8" stroke="#323254" stroke-width="1.3"/>
+<rect x="129" y="110" width="13" height="11" rx="1.5" fill="#FBE2C8" stroke="#323254" stroke-width="1.3"/>
+</g>
+
+<g>
+<ellipse cx="580" cy="128" rx="10" ry="3" fill="#E2E4E8"/>
+<path d="M580 60 C566 60 555 71 555 85 C555 102 580 126 580 126 C580 126 605 102 605 85 C605 71 594 60 580 60 Z"
+fill="#FFFFFF" stroke="#323254" stroke-width="2" stroke-linejoin="round"/>
+<circle cx="580" cy="85" r="11" fill="#D9772C"/>
+<circle cx="580" cy="85" r="4" fill="#FFFFFF"/>
+</g>
+
+<g>
+<polygon points="58,381 76,390 76,414 58,405" fill="#E7C29C" stroke="#323254" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="76,390 94,381 94,405 76,414" fill="#F0D2B3" stroke="#323254" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="76,372 94,381 76,390 58,381" fill="#FBE2C8" stroke="#323254" stroke-width="1.6" stroke-linejoin="round"/>
+<polygon points="96,358 122,371 122,403 96,390" fill="#F0D2B3" stroke="#323254" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="122,371 148,358 148,390 122,403" fill="#D9772C" stroke="#323254" stroke-width="2" stroke-linejoin="round"/>
+<polygon points="122,345 148,358 122,371 96,358" fill="#FCEEE1" stroke="#323254" stroke-width="2" stroke-linejoin="round"/>
+<line x1="122" y1="371" x2="122" y2="403" stroke="#323254" stroke-width="1.2"/>
+<line x1="130" y1="368" x2="140" y2="373" stroke="#FCEEE1" stroke-width="2" stroke-linecap="round"/>
+<line x1="130" y1="376" x2="140" y2="381" stroke="#FCEEE1" stroke-width="2" stroke-linecap="round"/>
+</g>
+
+<g>
+<rect x="500" y="338" width="70" height="38" rx="3" fill="#FFFFFF" stroke="#323254" stroke-width="2"/>
+<rect x="500" y="358" width="70" height="9" fill="#D9772C"/>
+<path d="M570 376 L570 350 L583 343 L604 343 L604 376 Z" fill="#FFFFFF" stroke="#323254" stroke-width="2" stroke-linejoin="round"/>
+<rect x="577" y="347" width="24" height="11" rx="2" fill="#E7E9EC" stroke="#323254" stroke-width="1.3"/>
+<line x1="570" y1="343" x2="570" y2="376" stroke="#323254" stroke-width="1.2"/>
+<circle cx="523" cy="378" r="10" fill="#FFFFFF" stroke="#323254" stroke-width="2"/>
+<circle cx="523" cy="378" r="4" fill="#323254"/>
+<circle cx="588" cy="378" r="10" fill="#FFFFFF" stroke="#323254" stroke-width="2"/>
+<circle cx="588" cy="378" r="4" fill="#323254"/>
+</g>
+</svg>
